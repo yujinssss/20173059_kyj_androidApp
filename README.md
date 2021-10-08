@@ -17,3 +17,6 @@
 
 ## 5주차
 <img width="" height="" src="./png/이미지 바꾸기.jpg"></img>
+
+## 6주차
+<img width="" height="" src="./png/6주차 과제_20173059김유진.jpg"></img>
