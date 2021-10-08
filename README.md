@@ -19,4 +19,4 @@
 <img width="" height="" src="./png/이미지 바꾸기.jpg"></img>
 
 ## 6주차
-<img width="" height="" src="./png/6주차 과제.jpg"></img>
+<img width="" height="" src="./png/6주차과제.png"></img>
